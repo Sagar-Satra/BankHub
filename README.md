@@ -1,4 +1,4 @@
-# Centralized Banking Database System
+# BankHub (Centralized Banking Database System)
 
 ## Purpose of the Database
 
